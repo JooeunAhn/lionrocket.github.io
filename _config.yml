@@ -16,8 +16,7 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
+
 
 social:
    github: brianmaierjr
@@ -25,4 +24,3 @@ social:
    facebook: brianmaierjr
    email: brimaidesigns@gmail.com
 
-google_analytics: "UA-58263416-1"
