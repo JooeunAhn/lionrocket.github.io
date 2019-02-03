@@ -3,20 +3,28 @@ title: LIONROCKET
 layout: default
 ---
 
-<div class="post">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
+   <div class="content">
+      <div class="container">
+         <div class="post">
+         <h2>We are LIONROCKET! </h2><br>
+	<p class="intro"><h4>"We want to make <br> &nbsp;&nbsp;the most humanlike artificial voices in the world"</h4></p>
+	<p>We are creating efficient and optimal voice synthesis system with voice data of minimum.
+        And we will convey value and engage people with our technologies.</p>
+
+    <hr>
+	<h3>Footprints</h3>
+    <br>
+    <ul>
+       <li>2018.5 KU 벤처 창업경진대회 최우수상</li>
+       <li>2018.6 스마트 창작터  지식서비스 창업경진대회 최우수상</li>
+       <li>2018.10 서울 우수창업동아리 우수상</li>
+       <li>2018.10 한양대 창의 공학설계 대회 금상</li>
+       <li>2018.10 수도전 창업아이디어 대회 헥토콘상</li>
+       <li>2018.11 한양대학교 공과대학장특별상</li>
+       <li>2018.11 전국공학교육페스티벌 진흥원장상</li>
+    </ul>
+
 </div>
+
+      </div>
+   </div>
