@@ -10,7 +10,8 @@ layout: default
 	<p class="intro"><h4>"We want to make <br> &nbsp;&nbsp;the most humanlike artificial voices in the world"</h4></p>
 	<p>We are creating efficient and optimal voice synthesis system with voice data of minimum.
         And we will convey value and engage people with our technologies.</p>
-
+				
+    <br> <p align='right'>Contact us : lionrocket1234@gmail.com </p>
     <hr>
 	<h3>Footprints</h3>
     <br>
