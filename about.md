@@ -11,7 +11,7 @@ layout: default
 	<p>We are creating efficient and optimal voice synthesis system with voice data of minimum.
         And we will convey value and engage people with our technologies.</p>
 				
-    <br> <p align='right'>Contact us : lionrocket1234@gmail.com </p>
+    <br> <p align='right'>Contact us : hwan@lionrocket.co.kr </p>
     <hr>
 	<h3>Footprints</h3>
     <br>
